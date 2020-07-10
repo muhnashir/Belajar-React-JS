@@ -92,3 +92,15 @@ content p.desc {
     color: #4a4a4a
 
 }
+
+.remove{
+    padding: 5px 18px;
+    background : #e20a0a;
+    color : #ffffff;
+    border-radius : 14px;
+    outline : none
+}
+.remove:hover{
+    cursor: pointer;
+    background : #0ae215;
+}
